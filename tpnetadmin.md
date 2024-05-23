@@ -40,7 +40,7 @@
 
 ## Changement de WAN
 
-* Remplacer IPFire par PFSense sur le routeur matériel
+* Remplacer IPFire par [PFSense](https://www.pfsense.org/download/) sur le routeur matériel
 
 ## Livrables finaux et restitution 
 
