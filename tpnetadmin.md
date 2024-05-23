@@ -38,7 +38,9 @@
 * Choisir et configurer un switch manageable dlink, le configurer et l'adresser correctement
 * Choisir et configurer une borne WIFI (la mettre temporairement) en mode serveur DHCP
 
+## Changement de WAN
 
+* Remplacer IPFire par PFSense sur le routeur matériel
 
 ## Livrables finaux et restitution 
 
