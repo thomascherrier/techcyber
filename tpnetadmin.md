@@ -41,7 +41,7 @@
 ## Changement de WAN
 
 * Remplacer IPFire par [PFSense](https://atxfiles.netgate.com/mirror/downloads/) sur le routeur matériel
-* Remplacer le switch D-Link par 2 cisco catalyst et créer dedans une vlan database correspondant à vos services qui sera diffusé par VTP
+* Remplacer le switch D-Link par 2 cisco catalyst et créer dedans une vlan database correspondant à vos services qui sera diffusée par VTP
 * Mettre une adresse ip pour chaque switch type 172.16.3.2XX
 * déclarer des ports dans chaque vlan
 
