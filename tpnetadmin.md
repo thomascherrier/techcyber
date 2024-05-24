@@ -47,7 +47,11 @@
 
 ## Routage Intervlan
 
-TBA
+* créer une vlan database identique à celle des switches dans le routeur
+* réflechir à une plan de subnetting
+* créer les subgtw et les liens au vlans
+* créer une règle de pare-feu pour laisser passer les flux
+* créer un DHCP multipool dans le PFSense
 
 ## VPN
 
