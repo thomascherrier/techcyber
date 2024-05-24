@@ -55,7 +55,11 @@
 
 ## VPN
 
-TBA
+* Installer le paquet OpenVPN Client via le gestionnaire de paquet de PFSENSE
+* Créer une autorité de certification dans le menu CERTIFICAT
+* Créer un certificat serveur à partir de l'autorité ci-dessus
+* Créer des utilisateurs dans user manager en leur attribuant un certificat client/utilisateur
+* Créer un serveur VPN Client2Site dans le menu OPENVPN à partir du tuto fourni en annexe
 
 
 ## Livrables finaux et restitution 
