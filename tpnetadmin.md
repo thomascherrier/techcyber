@@ -60,7 +60,7 @@
 * Créer un certificat serveur à partir de l'autorité ci-dessus
 * Créer des utilisateurs dans user manager en leur attribuant un certificat client/utilisateur
 * Créer un serveur VPN Client2Site dans le menu OPENVPN à partir du tuto fourni en annexe
-* Rajouter une règle Passoire dans l'ongler OPENVPN des Rules du Firewall
+* Rajouter une règle Passoire dans l'onglet OPENVPN des Rules du Firewall
 
 
 ## Livrables finaux et restitution 
