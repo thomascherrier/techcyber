@@ -61,6 +61,7 @@
 * Créer des utilisateurs dans user manager en leur attribuant un certificat client/utilisateur
 * Créer un serveur VPN Client2Site dans le menu OPENVPN à partir du tuto fourni en annexe
 * Rajouter une règle Passoire dans l'onglet OPENVPN des Rules du Firewall
+* Rejouter une règle dans les rules de WAN pour le protocol IPV4 UDP, * en IP source, * en port source, destination WAN Address en IP, 1194 en port dest, gateway *
 
 
 ## Livrables finaux et restitution 
